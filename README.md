@@ -1,7 +1,4 @@
 # Lista-de-Tarefas
-markdown
-Copy code
-# Lista de Tarefas
 
 Este é um projeto simples de uma lista de tarefas. Use-o para organizar suas atividades diárias, marcar itens concluídos e manter-se produtivo.
 
