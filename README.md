@@ -13,17 +13,16 @@ Este é um projeto simples de uma lista de tarefas. Use-o para organizar suas at
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/sua-lista-de-tarefas.git
+   git clone https://github.com/Teles2003/Lista-de-Tarefas.git
 Acesse o diretório do projeto:
 
 bash
-Copy code
 cd sua-lista-de-tarefas
 Abra o arquivo index.html no seu navegador.
 
 Comece a usar a lista de tarefas.
 
-Estrutura do Código
+Estrutura do Código:
 O código está organizado em três arquivos principais:
 
 index.html: Contém a estrutura HTML da lista de tarefas.
